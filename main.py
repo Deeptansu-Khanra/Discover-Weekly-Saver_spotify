@@ -18,7 +18,7 @@ class SaveSongs:
         print("Finding songs in discover weekly...")
         # Loop through playlist tracks, add them to list
 
-        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(
+        # query = "https://api.spotify.com/v1/playlists/{}/tracks".format(
             discover_weekly_id)
 
         response = requests.get(query,
