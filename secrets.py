@@ -1,0 +1,7 @@
+#Blank template file
+#Add your data here
+spotify_user_id = "315sjb22vkok6dv24eugfecfqwuy"
+discover_weekly_id = "37i9dQZEVXcExJGO43PTM7"
+refresh_token = "AQCYwGWU_HGmjLa35GvZwbqcAwF_eybADbR7XD0k4e38EFy_jYVf5OkveD2cZdXjfBdo5UEIdTBVLEc37mX8TbJJSABAKQoiTK_M3G2CKHl_i5LQTMIdk4pQT680kZ3tEvA"
+base_64 = "NjUxODk5ZmI1Yjk1NDQ3Nzk0ZGVlZDI5NzNiZjg5NzQ6YmRkMDhmOTlkYjg5NDNhZDhkZjJhOGMzMjFhOWIzOWQ="
+
